@@ -1,3 +1,15 @@
+## 一 下载和安装
+
+> 环境信息
+
+笔者环境信息：
+
+OS：macOS Mojave 10.14.6
+
+iTerm2 version：2.3.3
+
+
+
 官网下载地址：[iterm2](https://www.iterm2.com/)
 
 下载后执行安装文件即可
@@ -24,7 +36,7 @@
 
 > 安装完成
 
-![zsh_complete](./images/oh_my_zsh.png)
+![zsh_complete](/Users/yuying/Desktop/iterm2/images/oh_my_zsh.png)
 
 
 
@@ -34,7 +46,7 @@
 
 输入当前用户密码即可
 
-![chsh](./images/chsh.png)
+![chsh](/Users/yuying/Desktop/iterm2/images/chsh.png)
 
 
 
