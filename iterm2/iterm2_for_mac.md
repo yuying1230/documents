@@ -36,7 +36,7 @@ iTerm2 version：2.3.3
 
 > 安装完成
 
-![zsh_complete](/Users/yuying/Desktop/iterm2/images/oh_my_zsh.png)
+![zsh_complete](./images/oh_my_zsh.png)
 
 
 
@@ -46,7 +46,7 @@ iTerm2 version：2.3.3
 
 输入当前用户密码即可
 
-![chsh](/Users/yuying/Desktop/iterm2/images/chsh.png)
+![chsh](./images/chsh.png)
 
 
 
